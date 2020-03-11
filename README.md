@@ -1,5 +1,5 @@
-# Cartoon Videos Collection / For Windows and Android
-Includes all episodes. Download from these links below or copy this repository.
+# Cartoon Videos Collection 1 / Windows and Android
+Includes all episodes, list and download links below or copy this repository.
 <br/>
 <br/>
 Windows 10 Direct Download:
